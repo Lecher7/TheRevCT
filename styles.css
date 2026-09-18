@@ -99,13 +99,13 @@ h5 a:link,h5 a:visited,h5 a:active {
 }
 
 .main-content {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/accent.png") no-repeat;
+    background: url("/Images/accent.png") no-repeat;
     padding-left: 10px;
     padding-top: 30px
 }
 
 .featured+.main-content {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/heroAccent.png") no-repeat
+    background: url("/Images/heroAccent.png") no-repeat
 }
 
 header .content-wrapper {
@@ -241,43 +241,43 @@ ol.round li {
 }
 
 ol.round li.zero {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/orderedList0.png") no-repeat
+    background: url("/Images/orderedList0.png") no-repeat
 }
 
 ol.round li.one {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/orderedList1.png") no-repeat
+    background: url("/Images/orderedList1.png") no-repeat
 }
 
 ol.round li.two {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/orderedList2.png") no-repeat
+    background: url("/Images/orderedList2.png") no-repeat
 }
 
 ol.round li.three {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/orderedList3.png") no-repeat
+    background: url("/Images/orderedList3.png") no-repeat
 }
 
 ol.round li.four {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/orderedList4.png") no-repeat
+    background: url("/orderedList4.png") no-repeat
 }
 
 ol.round li.five {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/orderedList5.png") no-repeat
+    background: url("/orderedList5.png") no-repeat
 }
 
 ol.round li.six {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/orderedList6.png") no-repeat
+    background: url("/orderedList6.png") no-repeat
 }
 
 ol.round li.seven {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/orderedList7.png") no-repeat
+    background: url("/Images/orderedList7.png") no-repeat
 }
 
 ol.round li.eight {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/orderedList8.png") no-repeat
+    background: url("/Images/orderedList8.png") no-repeat
 }
 
 ol.round li.nine {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/orderedList9.png") no-repeat
+    background: url("/Images/orderedList9.png") no-repeat
 }
 
 article {
@@ -296,7 +296,7 @@ aside ul {
 }
 
 aside ul li {
-    background: url("/web/20250603023259im_/http://www.therevct.com/Images/bullet.png") no-repeat 0 50%;
+    background: url("/Images/bullet.png") no-repeat 0 50%;
     padding: 2px 0 2px 20px
 }
 
